@@ -171,7 +171,7 @@ Cooking · languages · design · travel
 <div align="center">
 
 <a href="mailto:Work@fadlelmula.com"><img src="https://img.shields.io/badge/Work@fadlelmula.com-050505?style=for-the-badge&logo=gmail&logoColor=E10B2C" /></a>
-<a href="[LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=E10B2C" /></a>
+<a href="https://www.linkedin.com/in/fadlelmulaali/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=E10B2C" /></a>
 <a href="[PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=react&logoColor=E10B2C" /></a>
 <a href="[OTHER LINK]"><img src="https://img.shields.io/badge/Writing-050505?style=for-the-badge&logo=substack&logoColor=E10B2C" /></a>
 
