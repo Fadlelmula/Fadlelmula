@@ -109,3 +109,78 @@ Intentionally empty until it isn't. Each entry ships with a problem, an approach
 <details>
 <summary><b>How I structure a repository</b></summary>
 <br/>
+
+
+Dead ends stay documented. That's usually where the learning was.
+
+</details>
+
+---
+
+### Method
+
+
+I don't assume I know enough. Every person and every field has something worth extracting — the skill is knowing what to take and where to apply it.
+
+---
+
+### Beyond the Terminal
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Thinking**
+
+Psychology · decision-making · cognitive science
+Business · entrepreneurship · economics
+Markets and long-horizon investing *(interest, not expertise)*
+
+</td>
+<td valign="top" width="50%">
+
+**Living**
+
+Books, film, and anime — usually with a review attached
+Competitive gaming · Valorant, League of Legends
+Cooking · languages · design · travel
+
+</td>
+</tr>
+</table>
+
+---
+
+### Signal
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fadlelmula&show_icons=true&hide_border=true&bg_color=050505&title_color=E10B2C&icon_color=E10B2C&text_color=b8b8b8&include_all_commits=true&hide=issues" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadlelmula&layout=compact&hide_border=true&bg_color=050505&title_color=E10B2C&text_color=b8b8b8&langs_count=6" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=fadlelmula&hide_border=true&background=050505&ring=E10B2C&fire=E10B2C&currStreakLabel=E10B2C&sideLabels=b8b8b8&dates=5a5a5a&currStreakNum=f5f5f5&sideNums=f5f5f5" />
+
+</div>
+
+---
+
+### Contact
+
+<div align="center">
+
+<a href="mailto:Work@fadlelmula.com"><img src="https://img.shields.io/badge/Work@fadlelmula.com-050505?style=for-the-badge&logo=gmail&logoColor=E10B2C" /></a>
+<a href="[LINKEDIN URL]"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=E10B2C" /></a>
+<a href="[PORTFOLIO URL]"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=react&logoColor=E10B2C" /></a>
+<a href="[OTHER LINK]"><img src="https://img.shields.io/badge/Writing-050505?style=for-the-badge&logo=substack&logoColor=E10B2C" /></a>
+
+<br/><br/>
+
+<sub><i>Started with Computer Science and broad curiosity. Explored technology, business, design, psychology, and data.<br/>Now converting all of it into things that can be built, measured, and improved.</i></sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10B2C,45:3a0a12,100:050505&height=110&section=footer" width="100%" />
+
+</div>
