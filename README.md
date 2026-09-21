@@ -155,14 +155,17 @@ Cooking · languages · design · travel
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fadlelmula&show_icons=true&hide_border=true&bg_color=050505&title_color=E10B2C&icon_color=E10B2C&text_color=b8b8b8&include_all_commits=true&hide=issues" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadlelmula&layout=compact&hide_border=true&bg_color=050505&title_color=E10B2C&text_color=b8b8b8&langs_count=6" />
+<img width="500" src="https://github-stats-extended.vercel.app/api?username=fadlelmula&show_icons=true&hide_border=true&bg_color=050505&title_color=E10B2C&icon_color=E10B2C&text_color=b8b8b8&include_all_commits=true&hide=issues" />
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=fadlelmula&hide_border=true&background=050505&ring=E10B2C&fire=E10B2C&currStreakLabel=E10B2C&sideLabels=b8b8b8&dates=5a5a5a&currStreakNum=f5f5f5&sideNums=f5f5f5" />
+<img width="500" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fadlelmula&layout=compact&hide_border=true&bg_color=050505&title_color=E10B2C&text_color=b8b8b8&langs_count=6" />
 
-</div>
+<br/>
+
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=fadlelmula&hide_border=true&background=050505&ring=E10B2C&fire=E10B2C&currStreakLabel=E10B2C&sideLabels=b8b8b8&dates=5a5a5a&currStreakNum=f5f5f5&sideNums=f5f5f5" />
+
+
 
 ---
 
