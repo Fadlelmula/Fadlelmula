@@ -101,10 +101,8 @@ Intentionally empty until it isn't. Each entry ships with a problem, an approach
 
 | Project | Domain | Stack | Status |
 |---|---|---|---|
-| **[PROJECT NAME]** — [ONE-LINE DESCRIPTION] | Data / SQL | `[STACK]` | [STATUS] |
-| **[PROJECT NAME]** — [ONE-LINE DESCRIPTION] | Web | `[STACK]` | [STATUS] |
-| **[PROJECT NAME]** — [ONE-LINE DESCRIPTION] | Analysis | `[STACK]` | [STATUS] |
-| **[PROJECT NAME]** — [ONE-LINE DESCRIPTION] | Experiment | `[STACK]` | [STATUS] |
+| **[if-then-maybe]** — High-entropy experiments in code, systems, and human edge cases. | everything | `[STACK]` | [Running-slow] |
+
 
 <details>
 <summary><b>How I structure a repository</b></summary>
