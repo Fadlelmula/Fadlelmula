@@ -101,7 +101,7 @@ Intentionally empty until it isn't. Each entry ships with a problem, an approach
 
 | Project | Domain | Stack | Status |
 |---|---|---|---|
-| **[if-then-maybe]** — High-entropy experiments in code, systems, and human edge cases. | everything | `[STACK]` | [Running-slow] |
+| **[if-then-maybe]** — High-entropy experiments in code, systems, and human edge cases. | everything | `[TBD]` | [Seeding] |
 
 
 <details>
