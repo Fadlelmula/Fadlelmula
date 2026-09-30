@@ -176,6 +176,7 @@ Cooking · languages · design · travel
 <a href="http://www.fadlelmula.com"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=react&logoColor=E10B2C" /></a>
 <a href="http://www.fadlelmula.com"><img src="https://img.shields.io/badge/Writing-050505?style=for-the-badge&logo=substack&logoColor=E10B2C" /></a>
 
+
 <br/><br/>
 
 <sub><i>Started with Computer Science and broad curiosity. Explored technology, business, design, psychology, and data.<br/>Now converting all of it into things that can be built, measured, and improved.</i></sub>
