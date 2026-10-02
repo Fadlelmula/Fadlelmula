@@ -10,178 +10,307 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Psych-E10B2C?style=flat-square&labelColor=050505" />
-<img src="https://img.shields.io/badge/Mode-Building-E10B2C?style=flat-square&labelColor=050505" />
-<img src="https://img.shields.io/badge/AR%20%C2%B7%20EN-fluent-E10B2C?style=flat-square&labelColor=050505" />
-<img src="https://img.shields.io/badge/FR%20%C2%B7%20ES-learning-3a0a12?style=flat-square&labelColor=050505" />
+
+</div>
+
+---
+<a id="top"></a>
+
+<div align="center">
+
+
+# Hi, I'm Fadlelmula 👋
+
+### Computer Science × AI × Psychology
+
+*Building what I wish existed.* 🌺
+
+[🧠 About](#-about) · [⚡ Stack](#-stack) · [🚀 Projects](#-projects) · [🔬 Lab](#-latest-from-the-lab) · [🔭 Now](#-currently) · [📚 Learning](#-learning-log) · [🌍 Languages](#-languages) · [📡 Contact](#-contact)
 
 </div>
 
 ---
 
-### Index
+```text
+$ whoami
+Fadlelmula Ali
 
-I build, analyze, and experiment where technology, data, human behavior, and business overlap.
+Computer Science Graduate
+AI / Psychology / Human behavior
+Builder · learner · professional overthinker
 
-Computer Science is the foundation
-psychology and business are the lenses I read it through. I observe first, map the system, then decide. This profile is that process becoming executable.
+> status:  building
+> mode:    curious
+> bugs:    classified
+```
 
+<details>
+<summary><b>💻 &nbsp;Type a command (click to run)</b></summary>
 
----
+<br>
 
-### About
+<details>
+<summary><code>$ cat mission.txt</code></summary>
 
-- **Computer Science graduate.** Formal CS foundation, extended by years of self-directed study across engineering, design, business, and the behavioral sciences.
-- **Interdisciplinary by design, not indecision.** Technology explains how a system works. Psychology explains why people use it the way they do. Business decides whether it should exist at all.
-- **Builder mindset, mid-transition.** I've spent years consuming knowledge. This account exists to convert it into repositories, prototypes, and documented decisions.
-- **Long-term:** a formal psychology background alongside the CS one, and products and companies of my own rather than a job title.
-
----
-
-### Current Focus
-
-| Track | What I'm actually doing |
-|---|---|
-| **SQL** | Deliberate practice — joins, aggregation, window functions, schema design, real datasets |
-| **Data** | Cleaning, exploring, and drawing defensible conclusions from messy inputs |
-| **Programming** | Writing more code than I read about writing code |
-| **Portfolio** | Building this profile from scratch, publicly, one repository at a time |
-| **Documentation** | Treating the write-up as part of the work, not an afterthought |
-
----
-
-### Stack
-
-Separated by how much I've actually put my hands on. No badge here is a claim I can't defend in conversation.
-
-<details open>
-<summary><b>Using</b></summary>
-<br/>
-
-![SQL](https://img.shields.io/badge/SQL-E10B2C?style=flat-square&logo=postgresql&logoColor=white&labelColor=050505)
-![Git](https://img.shields.io/badge/Git-E10B2C?style=flat-square&logo=git&logoColor=white&labelColor=050505)
-![GitHub](https://img.shields.io/badge/GitHub-E10B2C?style=flat-square&logo=github&logoColor=white&labelColor=050505)
-![Markdown](https://img.shields.io/badge/Markdown-E10B2C?style=flat-square&logo=markdown&logoColor=white&labelColor=050505)
-![VS Code](https://img.shields.io/badge/VS%20Code-E10B2C?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=050505)
-
-</details>
-
-<details open>
-<summary><b>Learning</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=E10B2C&labelColor=050505)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=E10B2C&labelColor=050505)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=E10B2C&labelColor=050505)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=E10B2C&labelColor=050505)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=E10B2C&labelColor=050505)
+> I like understanding how things work, then building something that probably didn't need to exist, but now does.
 
 </details>
 
 <details>
-<summary><b>On the map, not yet in the hands</b></summary>
-<br/>
+<summary><code>$ ls ~/interests</code></summary>
 
-Coursework, reading, and experimentation — listed as direction, not capability:
-
-`Docker` · `AWS` · `Machine Learning` · `Cybersecurity` · `Data Analysis at scale`
-
-`UX Research` · `UI Design Principles` · `Information Design` · `Digital Analytics`
-`Advanced SEO` · `Digital Marketing` · `WordPress` · `Graphic Design` · `Motion Infographics`
-`Product Management` · `Agile & Scrum` · `Strategic Planning` · `Statistics`
-`Internet of Things` · `Nanotechnology` · `Automation` · `AI & Emerging Tech`
+```text
+ai/    psychology/    game-theory/    business-strategy/
+investing/    product-thinking/    anime/    books/    languages/    travel/
+```
 
 </details>
-
----
-
-### Projects
-
-Intentionally empty until it isn't. Each entry ships with a problem, an approach, and what I'd do differently.
-
-| Project | Domain | Stack | Status |
-|---|---|---|---|
-| **[if-then-maybe]** — High-entropy experiments in code, systems, and human edge cases. | everything | `[TBD]` | [Seeding] |
-
 
 <details>
-<summary><b>How I structure a repository</b></summary>
-<br/>
+<summary><code>$ fortune</code></summary>
 
-
-Dead ends stay documented. That's usually where the learning was.
+> "One more course" is how every side project begins.
 
 </details>
 
----
+<details>
+<summary><code>$ sudo rm -rf motivation</code></summary>
 
-### Method
+```text
+rm: cannot remove 'motivation': Permission denied
+(it's owned by caffeine and a half-finished course)
+```
 
+</details>
 
-I don't assume I know enough. Every person and every field has something worth extracting — the skill is knowing what to take and where to apply it.
+</details>
 
----
+<!-- OPTIONAL GIF: save it as assets/intro.gif, then uncomment
+<div align="center">
+<img src="./assets/intro.gif" alt="Short description of the GIF" width="600">
+</div>
+-->
 
-### Beyond the Terminal
+## 🧠 About
+
+My interest sits at one intersection: **computer science, AI, and psychology**. Technology tells you what a system *can* do. Psychology tells you why a human will use it wrong anyway. I'm interested in both halves of that sentence.
+
+I also read about game theory, business strategy, investing, and product thinking, because systems are easier to build once you understand the people (and incentives) around them.
+
+<!-- OPTIONAL: add 1-2 sentences about what you want next (roles, research, a startup) -->
+
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+
+## ⚡ Stack
+
+An honest map of where I am with each area. Tap a row to open it.
+
+<details>
+<summary><b>🤖 AI</b> &nbsp;·&nbsp; <i>Exploring</i></summary>
+
+<br>
+
+Generative AI · Prompt engineering · AI ethics · AI bias · AI in the workplace
+
+</details>
+
+<details>
+<summary><b>💻 Computer Science</b> &nbsp;·&nbsp; <i>Building with</i></summary>
+
+<br>
+
+Programming fundamentals · Python · Databases · Software concepts
+
+</details>
+
+<details>
+<summary><b>🧠 Human-centered tech</b> &nbsp;·&nbsp; <i>Learning</i></summary>
+
+<br>
+
+UX research · UI & information design · Digital storytelling · Gamification
+
+</details>
+
+<details>
+<summary><b>📈 Product & Business</b> &nbsp;·&nbsp; <i>Learning</i></summary>
+
+<br>
+
+Product management · Agile · Strategic planning · Decision making · Digital marketing
+
+</details>
+
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+
+## 🚀 Projects
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td>
 
-**Thinking**
+### `if-then-maybe`
 
-Psychology · decision-making · cognitive science
-Business · entrepreneurship · economics
-Markets and long-horizon investing *(interest, not expertise)*
+🧪 **Status:** Active experiment
 
-</td>
-<td valign="top" width="50%">
+<!-- ADD HERE: one-line description, the problem it tackles, and what it's built with -->
 
-**Living**
+<details>
+<summary>🔴 <b>Explore project</b></summary>
 
-Books, film, and anime — usually with a review attached
-Competitive gaming · Valorant, League of Legends
-Cooking · languages · design · travel
+<br>
+
+<!-- ADD HERE: how it works, what you learned, what's next -->
+
+👉 [Open the repo](https://github.com/Fadlelmula/if-then-maybe)
+
+</details>
 
 </td>
 </tr>
 </table>
 
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+
+## 🔬 Latest from the lab
+
+Updates itself daily, so this list is always fresh.
+
+<!-- LATEST-REPOS:START -->
+- [`if-then-maybe`](https://github.com/Fadlelmula/if-then-maybe) · 🧪 active experiment
+<!-- LATEST-REPOS:END -->
+
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+
+## 🔭 Currently
+
+- 🤖 Exploring AI and generative AI
+- 🧠 Studying psychology and human behavior
+- 💻 Strengthening my computer science foundation
+- 🛠️ Turning ideas into projects instead of hoarding tutorials
+
+> **Current experiment:** how much can I learn by building instead of endlessly preparing to build?
+
+## 🧠 Psychology × Technology
+
+Most developers study systems. I'm also curious about the humans stuck using them.
+
+```text
+human behavior → technology → AI systems → human-centered products
+```
+
+<details>
+<summary><b>What does that actually mean?</b></summary>
+
+<br>
+
+Decision-making, mental models, and why people click the thing you hoped they wouldn't. That's the part I want to build around.
+
+</details>
+
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+
+## 📚 Learning Log
+
+**50+ MOOCs** and counting. I treat them as maps, not trophies. The proof is in the projects above.
+
+<details>
+<summary>📚 <b>Explore my learning journey</b></summary>
+
+<br>
+
+<details>
+<summary>🤖 AI</summary>
+
+Intro to AI & Generative AI · AI in the Workplace · Prompt Engineering · AI Ethics · AI Bias
+
+</details>
+
+<details>
+<summary>💻 Computer Science</summary>
+
+Python · Databases · Microsoft SQL Server · T-SQL
+
+</details>
+
+<details>
+<summary>🎨 UX & Design</summary>
+
+UX Research · UX/UI Design · Information Design · Digital Storytelling
+
+</details>
+
+<details>
+<summary>📈 Business & Marketing</summary>
+
+Digital Marketing · SEO · Digital Analytics · Product Management · Agile · Strategic Planning
+
+</details>
+
+<details>
+<summary>🧩 Other</summary>
+
+IoT · Nanotechnology · WordPress · Graphic Design · Gamification
+
+</details>
+
+</details>
+
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+
+## 🌍 Languages
+
+| Language | Status |
+|---|---|
+| Arabic | Fluent |
+| English | Fluent |
+| French · Spanish · Italian | Learning |
+
+## 🧪 `sudo apt install personality`
+
+```text
+Installing Fadlelmula...  [████████████████████] 100%
+
+✓ Curiosity          ✓ Programming      ✓ Psychology
+✓ AI                 ✓ Strategy         ✓ Overthinking
+✓ "I could probably build that"
+✗ Normal sleep schedule
+
+WARNING: user has opened another course.
+STATUS:  works on my machine™
+```
+
+<details>
+<summary>🔴 <b>Do not open</b></summary>
+
+<br>
+
+🌺 Like a red spider lily: all bloom, no leaves, and somehow always shows up at the right time.
+
+Documentation is a side quest. 🎮
+
+</details>
+
+## 💬 Talk to me
+
+Pick one. Each opens a pre-filled message on GitHub (you'll need a free GitHub account).
+
+| | |
+|---|---|
+| 👋 [**Say hi**](https://github.com/Fadlelmula/Fadlelmula/issues/new?title=Hi%20Fadlelmula%20%F0%9F%91%8B&body=Tell%20me%20who%20you%20are%20and%20what%20brought%20you%20here.) | Tell me who you are and what brought you here |
+| 🧠 [**Ask me anything**](https://github.com/Fadlelmula/Fadlelmula/issues/new?title=Question%3A%20&body=Ask%20about%20AI%2C%20psychology%2C%20my%20projects%2C%20or%20anything%20else.) | AI, psychology, projects, learning |
+| 💡 [**Pitch me an idea**](https://github.com/Fadlelmula/Fadlelmula/issues/new?title=Idea%3A%20&body=What%20should%20exist%20but%20doesn%27t%3F) | What should exist but doesn't? |
+| 🤝 [**Collaborate**](https://github.com/Fadlelmula/Fadlelmula/issues/new?title=Collab%3A%20&body=What%20are%20you%20building%2C%20and%20how%20can%20we%20work%20together%3F) | Building something? Let's talk |
+
+## 📡 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fadlelmulaali-b3122b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadlelmulaali)
+[![Email](https://img.shields.io/badge/Email-work%40fadlelmula.com-b3122b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work@fadlelmula.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Fadlelmula-b3122b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fadlelmula)
+
 ---
 
-### Signal
-
-<div align="center">
-
-<img width="500" src="https://github-stats-extended.vercel.app/api?username=fadlelmula&show_icons=true&hide_border=true&bg_color=050505&title_color=E10B2C&icon_color=E10B2C&text_color=b8b8b8&include_all_commits=true&hide=issues&v=2" />
-
-<br/>
-
-<img width="500" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fadlelmula&layout=compact&hide_border=true&bg_color=050505&title_color=E10B2C&text_color=b8b8b8&langs_count=6&v=2" />
-
-<br/>
-
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=fadlelmula&hide_border=true&background=050505&ring=E10B2C&fire=E10B2C&currStreakLabel=E10B2C&sideLabels=b8b8b8&dates=5a5a5a&currStreakNum=f5f5f5&sideNums=f5f5f5&v=2" />
-
-</div>
-
----
-
-### Contact
-
-<div align="center">
-
-<a href="mailto:Work@fadlelmula.com"><img src="https://img.shields.io/badge/Work@fadlelmula.com-050505?style=for-the-badge&logo=gmail&logoColor=E10B2C" /></a>
-<a href="https://www.linkedin.com/in/fadlelmulaali/"><img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=E10B2C" /></a>
-<a href="http://www.fadlelmula.com"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=react&logoColor=E10B2C" /></a>
-<a href="http://www.fadlelmula.com"><img src="https://img.shields.io/badge/Writing-050505?style=for-the-badge&logo=substack&logoColor=E10B2C" /></a>
-
-
-<br/><br/>
-
-<sub><i>Started with Computer Science and broad curiosity. Explored technology, business, design, psychology, and data.<br/>Now converting all of it into things that can be built, measured, and improved.</i></sub>
-
-<br/><br/>
+<div align="center"><sub>🔴 Works on my machine™ · <a href="#top">back to top</a></sub></div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10B2C,45:3a0a12,100:050505&height=110&section=footer" width="100%" />
 
