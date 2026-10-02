@@ -212,7 +212,7 @@ Decision-making, mental models, and why people click the thing you hoped they wo
 
 ## 📚 Learning Log
 
-**50+ MOOCs** and counting. I treat them as maps, not trophies. The proof is in the projects above.
+**Almost 100 MOOCs** and counting. i love learning new stuff.
 
 <details>
 <summary>📚 <b>Explore my learning journey</b></summary>
