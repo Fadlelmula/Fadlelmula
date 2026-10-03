@@ -212,7 +212,7 @@ Decision-making, mental models, and why people click the thing you hoped they wo
 
 ## 📚 Learning Log
 
-📚 **100+ courses** · still collecting side quests
+📚 **100+ MOOCs** · still collecting side quests
 
 <details>
 <summary>📚 <b>Explore my learning journey</b></summary>
