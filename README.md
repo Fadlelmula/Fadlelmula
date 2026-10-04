@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Fadlelmula Ali" width="100%" />
+<img src="./assets/BannerNew.png" alt="Fadlelmula Ali" width="100%" />
 
 <br/>
 
