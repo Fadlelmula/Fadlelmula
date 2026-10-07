@@ -149,7 +149,7 @@ Product management · Agile · Strategic planning · Decision making · Digital 
 <tr>
 <td>
 
-### `if-then-maybe`
+### `learning-archive`
 
 🧪 **Status:** Active experiment
 
