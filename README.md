@@ -137,15 +137,6 @@ I see courses as starting points. The real test is what I can understand, apply,
 
 <div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
-## 🌍 Languages
-
-| Language | Level |
-|---|---|
-| Arabic | Fluent |
-| English | Fluent |
-| French | Learning |
-| Spanish | Learning |
-| Italian | Learning |
 
 ## 🧪 A little personality
 
