@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./assets/BannerNew.png" alt="Fadlelmula Ali" width="100%" />
@@ -5,27 +6,35 @@
 <br/>
 
 <a href="https://github.com/fadlelmula">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=E10B2C&center=true&vCenter=true&width=720&lines=Observe.+Analyze.+Build.+Refine.;Systems+are+technical.+So+are+people.;Discipline+turns+dreams+into+freedom." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=E10B2C&center=true&vCenter=true&width=720&lines=Observe.+Analyze.+Build.+Refine.;Systems+are+technical.+So+are+people.;Discipline+turns+dreams+into+freedom." alt="Observe. Analyze. Build. Refine." />
 </a>
 
 <br/><br/>
 
+<a href="https://fadlelmula.com">
+  <img src="https://img.shields.io/badge/Explore%20my%20website-fadlelmula.com-E10B2C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website" />
+</a>
+<a href="https://www.linkedin.com/in/fadlelmulaali">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-b3122b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
+
 <a id="top"></a>
 
 <div align="center">
 
-
-# Hi, I'm Fadlelmula 👋
+# Fadlelmula Ali
 
 ### Computer Science × AI × Psychology
 
-*Building what I wish existed.* 🌺
+*Somewhere between what is known and what remains to be understood.*
 
-[🧠 About](#-about) · [⚡ Stack](#-stack) · [🚀 Projects](#-projects) · [🔬 Lab](#-latest-from-the-lab) · [🔭 Now](#-currently) · [📚 Learning](#-learning-log) · [🌍 Languages](#-languages) · [📡 Contact](#-contact)
+**Builder · Curious mind · Systems thinker**
+
+[🧠 About](#-about) · [⚡ Focus](#-what-im-exploring) · [🚀 Projects](#-selected-work) · [🔭 Now](#-currently) · [📚 Learning](#-learning) · [🌍 Languages](#-languages) · [📡 Connect](#-connect)
 
 </div>
 
@@ -33,285 +42,154 @@
 
 ```text
 $ whoami
+
 Fadlelmula Ali
-
 Computer Science Graduate
-AI / Psychology / Human behavior
-Builder · learner · professional overthinker
 
-> status:  building
-> mode:    curious
-> bugs:    classified
+interests: AI / psychology / human behavior
+approach:  observe → analyze → build → refine
+status:    always learning
 ```
-
-<details>
-<summary><b>💻 &nbsp;Type a command (click to run)</b></summary>
-
-<br>
-
-<details>
-<summary><code>$ cat mission.txt</code></summary>
-
-> I like understanding how things work, then building something that probably didn't need to exist, but now does.
-
-</details>
-
-<details>
-<summary><code>$ ls ~/interests</code></summary>
-
-```text
-ai/    psychology/    game-theory/    business-strategy/
-investing/    product-thinking/    anime/    books/    languages/    travel/
-```
-
-</details>
-
-<details>
-<summary><code>$ fortune</code></summary>
-
-> "One more course" is how every side project begins.
-
-</details>
-
-<details>
-<summary><code>$ sudo rm -rf motivation</code></summary>
-
-```text
-rm: cannot remove 'motivation': Permission denied
-(it's owned by caffeine and a half-finished course)
-```
-
-</details>
-
-</details>
-
-<!-- OPTIONAL GIF: save it as assets/intro.gif, then uncomment
-<div align="center">
-<img src="./assets/intro.gif" alt="Short description of the GIF" width="600">
-</div>
--->
 
 ## 🧠 About
 
-My interest sits at one intersection: **computer science, AI, and psychology**. Technology tells you what a system *can* do. Psychology tells you why a human will use it wrong anyway. I'm interested in both halves of that sentence.
+I'm interested in the space where **technology meets human behavior**.
 
-I also read about game theory, business strategy, investing, and product thinking, because systems are easier to build once you understand the people (and incentives) around them.
+My background is in computer science, and I'm drawn to AI, psychology, and the systems people interact with every day. I like understanding how things work, questioning why they work that way, and building better alternatives when I can.
 
-<!-- OPTIONAL: add 1-2 sentences about what you want next (roles, research, a startup) -->
+Beyond code, I spend time exploring decision-making, game theory, business strategy, product thinking, and the small details that shape how people experience technology.
 
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
+I document my work, experiments, recommendations, and ideas on my personal website:
 
-## ⚡ Stack
+<div align="center">
 
-An honest map of where I am with each area. Tap a row to open it.
+### [fadlelmula.com](https://fadlelmula.com)
 
-<details>
-<summary><b>🤖 AI</b> &nbsp;·&nbsp; <i>Exploring</i></summary>
+*Somewhere between what is known and what remains to be understood.*
 
-<br>
-
-Generative AI · Prompt engineering · AI ethics · AI bias · AI in the workplace
-
-</details>
-
-<details>
-<summary><b>💻 Computer Science</b> &nbsp;·&nbsp; <i>Building with</i></summary>
-
-<br>
-
-Programming fundamentals · Python · Databases · Software concepts
-
-</details>
-
-<details>
-<summary><b>🧠 Human-centered tech</b> &nbsp;·&nbsp; <i>Learning</i></summary>
-
-<br>
-
-UX research · UI & information design · Digital storytelling · Gamification
-
-</details>
-
-<details>
-<summary><b>📈 Product & Business</b> &nbsp;·&nbsp; <i>Learning</i></summary>
-
-<br>
-
-Product management · Agile · Strategic planning · Decision making · Digital marketing
-
-</details>
+</div>
 
 <div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
-## 🚀 Projects
+## ⚡ What I'm exploring
 
-<table>
-<tr>
-<td>
+| Area | Current focus |
+|---|---|
+| 🤖 **Artificial Intelligence** | Generative AI, prompt engineering, responsible AI, ethics and bias |
+| 💻 **Computer Science** | Programming fundamentals, Python, databases and software development |
+| 🧠 **Psychology & people** | Human behavior, decision-making, mental models and human-centered technology |
+| 🎨 **Product & experience** | UX/UI, information design, product thinking and gamification |
+| 📈 **Strategy** | Game theory, business strategy, Agile and strategic planning |
 
-### `learning-archive`
+These are areas I'm actively exploring and developing—not a claim of mastery.
 
-🧪 **Status:** Active experiment
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
-<!-- ADD HERE: one-line description, the problem it tackles, and what it's built with -->
+## 🚀 Selected work
 
-<details>
-<summary>🔴 <b>Explore project</b></summary>
+### [fadlelmula.com](https://fadlelmula.com)
 
-<br>
+**My personal corner of the internet.**
 
-<!-- ADD HERE: how it works, what you learned, what's next -->
+A place for my projects, interests, recommendations, writing, and ideas. It brings together the things I'm building and the things I'm curious about.
 
-👉 [Open the repo](https://github.com/Fadlelmula/if-then-maybe)
+[Visit the website →](https://fadlelmula.com)
 
-</details>
+### [Learning-Archive](https://github.com/Fadlelmula/Learning-Archive)
 
-</td>
-</tr>
-</table>
+**A sandbox for learning by doing.**
+
+Small code experiments, system tests, and practical explorations—because I learn more by building, breaking, and refining than by collecting tutorials.
+
+[Explore the repository →](https://github.com/Fadlelmula/Learning-Archive)
 
 <div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 ## 🔬 Latest from the lab
 
-Updates itself daily, so this list is always fresh.
-
 <!-- LATEST-REPOS:START -->
-- [`rawjan`](https://github.com/Fadlelmula/rawjan) · Private, local-first personal finance desktop app for Windows: double-entry ledger, budgets, savings, investments, liabilities and net worth. · updated 2026-11-16
-- [`Learning-Archive`](https://github.com/Fadlelmula/Learning-Archive) · A high entropy sandbox for small code experiments, system tests, and the occasional human-shaped edge case. · updated 2026-11-14
+- [`rawjan`](https://github.com/Fadlelmula/rawjan) · A private, local-first personal finance desktop app exploring budgeting, double-entry accounting, savings, investments, liabilities, and net worth.
+- [`Learning-Archive`](https://github.com/Fadlelmula/Learning-Archive) · Small code experiments, system tests, and practical learning projects.
 <!-- LATEST-REPOS:END -->
 
 <div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 ## 🔭 Currently
 
-- 🤖 Exploring AI and generative AI
-- 🧠 Studying psychology and human behavior
-- 💻 Strengthening my computer science foundation
-- 🛠️ Turning ideas into projects instead of hoarding tutorials
+- Exploring AI and its practical, human-centered applications.
+- Learning more about psychology, decision-making, and human behavior.
+- Strengthening my software development foundations through projects.
+- Turning ideas into working experiments instead of leaving them in a notes app.
 
-> **Current experiment:** how much can I learn by building instead of endlessly preparing to build?
+> **A principle I'm testing:** build to understand; refine to improve.
 
-## 🧠 Psychology × Technology
+## 📚 Learning
 
-Most developers study systems. I'm also curious about the humans stuck using them.
+**90+ MOOCs and online courses** across a range of subjects, including:
 
-```text
-human behavior → technology → AI systems → human-centered products
-```
+- **AI:** Generative AI, prompt engineering, AI ethics, bias, and AI in the workplace.
+- **Computer Science & data:** Python, SQL, Microsoft SQL Server, databases, and data analysis.
+- **Design & experience:** UX/UI, UX research, information design, and digital storytelling.
+- **Business & strategy:** Product management, Agile, strategic planning, SEO, and digital marketing.
+- **Other interests:** IoT, nanotechnology, WordPress, gamification, and languages.
 
-<details>
-<summary><b>What does that actually mean?</b></summary>
-
-<br>
-
-Decision-making, mental models, and why people click the thing you hoped they wouldn't. That's the part I want to build around.
-
-</details>
-
-<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
-
-## 📚 Learning Log
-
-📚 **100+ MOOCs** · still collecting side quests
-
-<details>
-<summary>📚 <b>Explore my learning journey</b></summary>
-
-<br>
-
-<details>
-<summary>🤖 AI</summary>
-
-Intro to AI & Generative AI · AI in the Workplace · Prompt Engineering · AI Ethics · AI Bias
-
-</details>
-
-<details>
-<summary>💻 Computer Science</summary>
-
-Python · Databases · Microsoft SQL Server · T-SQL
-
-</details>
-
-<details>
-<summary>🎨 UX & Design</summary>
-
-UX Research · UX/UI Design · Information Design · Digital Storytelling
-
-</details>
-
-<details>
-<summary>📈 Business & Marketing</summary>
-
-Digital Marketing · SEO · Digital Analytics · Product Management · Agile · Strategic Planning
-
-</details>
-
-<details>
-<summary>🧩 Other</summary>
-
-IoT · Nanotechnology · WordPress · Graphic Design · Gamification
-
-</details>
-
-</details>
+I see courses as starting points. The real test is what I can understand, apply, and build afterwards.
 
 <div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 ## 🌍 Languages
 
-| Language | Status |
+| Language | Level |
 |---|---|
 | Arabic | Fluent |
 | English | Fluent |
-| French · Spanish · Italian | Learning |
+| French | Learning |
+| Spanish | Learning |
+| Italian | Learning |
 
-## 🧪 `sudo apt install personality`
+## 🧪 A little personality
 
 ```text
-Installing Fadlelmula...  [████████████████████] 100%
+$ sudo apt install personality
 
-✓ Curiosity          ✓ Programming      ✓ Psychology
-✓ AI                 ✓ Strategy         ✓ Overthinking
-✓ "I could probably build that"
-✗ Normal sleep schedule
+✓ Curiosity
+✓ Programming
+✓ Psychology
+✓ Strategy
+✓ Asking one more question
 
-WARNING: user has opened another course.
-STATUS:  works on my machine™
+WARNING: another idea has entered the backlog.
+STATUS: works on my machine™
 ```
 
-<details>
-<summary>🔴 <b>Do not open</b></summary>
+🌺 **The red spider lily** — a small symbol I keep coming back to. Distinctive, understated, and hard to mistake.
 
-<br>
+## 📡 Connect
 
-🌺 Like a red spider lily: all bloom, no leaves, and somehow always shows up at the right time.
+If something here interests you, feel free to reach out.
 
-Documentation is a side quest. 🎮
+<div align="center">
 
-</details>
+<a href="https://fadlelmula.com">
+  <img src="https://img.shields.io/badge/Website-fadlelmula.com-E10B2C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://www.linkedin.com/in/fadlelmulaali">
+  <img src="https://img.shields.io/badge/LinkedIn-fadlelmulaali-b3122b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Fadlelmula">
+  <img src="https://img.shields.io/badge/GitHub-Fadlelmula-b3122b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:work@fadlelmula.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-b3122b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-## 💬 Talk to me
-
-Pick one. Each opens a pre-filled message on GitHub (you'll need a free GitHub account).
-
-| | |
-|---|---|
-| 👋 [**Say hi**](https://github.com/Fadlelmula/Fadlelmula/issues/new?title=Hi%20Fadlelmula%20%F0%9F%91%8B&body=Tell%20me%20who%20you%20are%20and%20what%20brought%20you%20here.) | Tell me who you are and what brought you here |
-| 🧠 [**Ask me anything**](https://github.com/Fadlelmula/Fadlelmula/issues/new?title=Question%3A%20&body=Ask%20about%20AI%2C%20psychology%2C%20my%20projects%2C%20or%20anything%20else.) | AI, psychology, projects, learning |
-| 💡 [**Pitch me an idea**](https://github.com/Fadlelmula/Fadlelmula/issues/new?title=Idea%3A%20&body=What%20should%20exist%20but%20doesn%27t%3F) | What should exist but doesn't? |
-| 🤝 [**Collaborate**](https://github.com/Fadlelmula/Fadlelmula/issues/new?title=Collab%3A%20&body=What%20are%20you%20building%2C%20and%20how%20can%20we%20work%20together%3F) | Building something? Let's talk |
-
-## 📡 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fadlelmulaali-b3122b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadlelmulaali)
-[![Email](https://img.shields.io/badge/Email-work%40fadlelmula.com-b3122b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work@fadlelmula.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Fadlelmula-b3122b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fadlelmula)
+</div>
 
 ---
 
-<div align="center"><sub>🔴 Works on my machine™ · <a href="#top">back to top</a></sub></div>
+<div align="center">
+
+<sub>🔴 Observe. Analyze. Build. Refine. · <a href="#top">Back to top ↑</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10B2C,45:3a0a12,100:050505&height=110&section=footer" width="100%" />
 
