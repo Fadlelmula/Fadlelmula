@@ -108,8 +108,8 @@ Small code experiments, system tests, and practical explorations—because I lea
 ## 🔬 Latest from the lab
 
 <!-- LATEST-REPOS:START -->
-- [`rawjan`](https://github.com/Fadlelmula/rawjan) · A private, local-first personal finance desktop app exploring budgeting, double-entry accounting, savings, investments, liabilities, and net worth.
-- [`Learning-Archive`](https://github.com/Fadlelmula/Learning-Archive) · Small code experiments, system tests, and practical learning projects.
+- [`rawjan`](https://github.com/Fadlelmula/rawjan) · Private, local-first personal finance desktop app for Windows: double-entry ledger, budgets, savings, investments, liabilities and net worth. · updated 2026-11-16
+- [`Learning-Archive`](https://github.com/Fadlelmula/Learning-Archive) · A high entropy sandbox for small code experiments, system tests, and the occasional human-shaped edge case. · updated 2026-11-14
 <!-- LATEST-REPOS:END -->
 
 <div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
