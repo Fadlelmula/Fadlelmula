@@ -108,7 +108,7 @@ Small code experiments, system tests, and practical explorations—because I lea
 ## 🔬 Latest from the lab
 
 <!-- LATEST-REPOS:START -->
-- [`bergag`](https://github.com/Fadlelmula/bergag) · Local-first desktop information and reading platform for Windows (Bergag M1-M9, MIT licensed) · updated 2026-11-21
+- [`bergag`](https://github.com/Fadlelmula/bergag) · Local-first desktop information and reading platform for Windows (Bergag M1-M9, MIT licensed) · updated 2026-11-22
 - [`rawjan`](https://github.com/Fadlelmula/rawjan) · Private, local-first personal finance desktop app for Windows: double-entry ledger, budgets, savings, investments, liabilities and net worth. · updated 2026-11-18
 - [`Learning-Archive`](https://github.com/Fadlelmula/Learning-Archive) · A high entropy sandbox for small code experiments, system tests, and the occasional human-shaped edge case. · updated 2026-11-14
 <!-- LATEST-REPOS:END -->
